@@ -41,9 +41,8 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-  def retrieve_element_from_index(array, index_number)
-  array = [9,8,"am",6,5,4,3,2,1,0]
-  index_number = array[2]
+ 
+
   
 
 end
