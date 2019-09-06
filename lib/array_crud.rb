@@ -20,8 +20,8 @@ end
 
 def remove_element_from_start_of_array(array)
   hello=remove_element_from_start_of_array.unshift
+  p remove_element_from_start_of_array
   p hello
-  p
 end
 
 def retrieve_element_from_index(array, index_number)
